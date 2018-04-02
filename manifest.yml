@@ -1,0 +1,5 @@
+---
+applications:
+- name: my-app
+  memory: 512M
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack

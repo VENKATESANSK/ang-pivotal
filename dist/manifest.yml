@@ -1,0 +1,5 @@
+---
+applications:
+- name: angular4-buildpack
+  memory: 512M
+  buildpack: staticfile_buildpack
